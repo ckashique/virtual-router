@@ -1,0 +1,19 @@
+{
+  "events": [
+    {
+      "seq": 1,
+      "type": "iface_down",
+      "interface": "eth1"
+    },
+    {
+      "seq": 2,
+      "type": "iface_up",
+      "interface": "eth2"
+    },
+    {
+      "seq": 3,
+      "type": "iface_up",
+      "interface": "eth1"
+    }
+  ]
+}
